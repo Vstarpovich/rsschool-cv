@@ -9,13 +9,13 @@
 
 ## Summary
  **Senior integration and technical support engineer, with 14 years of experience working with customers.  Responsibilities include:**
- * consulting to the customers;
+ * customers consulting;
  * integration of the software line or its parts;
  * business process analysis; 
  * business process modeling; 
  * data analysis and search for errors that affect the software operation;
  * writing user stories;
- * writing a technical tasks and approving them with the customer;
+ * writing technical tasks and approving them with the customer;
  * setting tasks for developers;
  * testing the software solution before transferring it to the customer;
  * conducting prerelease and release tests on the territory of the customer;
