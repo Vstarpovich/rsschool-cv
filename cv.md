@@ -5,6 +5,7 @@
   * discord: VstarV(@Vstarpovich)
   * linkedin: [linkedin](https://www.linkedin.com/in/vladimir-starpovich-6b815639/)
   * GitHub: [GitHub](https://github.com/Vstarpovich)
+  * Skype: ValdimirStarpovich 
 
 
 ## Summary
