@@ -1,0 +1,88 @@
+html {
+    font-family: Roboto, sans-serif;
+    --primary-color: #2f80ed;
+    --secondary-color: #333333;
+    --bg-color: #ffffff;
+  }
+
+  
+  body {
+    background-color: var(--bg-color);
+  }
+  
+  * {
+    color: var(--secondary-color);
+  }
+  
+  h1 {
+    color: var(--primary-color);
+    margin-bottom: 0.25em;
+  }
+  
+  h2 {
+    color: var(--secondary-color);
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+  
+  h3 {
+    color: var(--primary-color);
+  }
+  
+  a {
+    color: var(--primary-color);
+  }
+  
+  section {
+    margin-bottom: 3em;
+    position: relative;
+  }
+  
+  .cv {
+    max-width: 1024px;
+    max-height: 728px;
+    margin: 0 auto;
+  }
+  .foto {
+      margin-left: 50%;
+      margin-block: -70px;
+  }
+  
+  .contacts {
+    margin-bottom: 2em;
+  }
+  
+  .contact {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .contact__type {
+    min-width: 90px;
+  }
+  
+  .experience {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 2em;
+  }
+  
+  .Professional_skills__date {
+    min-width: 185px;
+    margin-bottom: 1em;
+  }
+  
+  .Professional_skills__name {
+    font-weight: bold;
+  }
+  
+  @media (max-width: 575px) {
+    .Professional_skills {
+      display: block;
+    }
+  }
+  
+  
