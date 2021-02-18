@@ -5,11 +5,11 @@ html {
     --bg-color: #ffffff;
   }
   
-  html[data-theme='dark'] {
+ /* html[data-theme='dark'] {
     --primary-color: #2f80ed;
     --secondary-color: #ffffff;
     --bg-color: #202020;
-  }
+  } */
   
   body {
     background-color: var(--bg-color);
@@ -48,6 +48,10 @@ html {
     max-width: 1024px;
     margin: 0 auto;
   }
+  .foto {
+      margin-left: 50%;
+      margin-block: -70px;
+  }
   
   .contacts {
     margin-bottom: 2em;
@@ -70,17 +74,17 @@ html {
     margin-bottom: 2em;
   }
   
-  .experience__date {
+  .Professional_skills__date {
     min-width: 185px;
     margin-bottom: 1em;
   }
   
-  .experience__name {
+  .Professional_skills__name {
     font-weight: bold;
   }
   
   @media (max-width: 575px) {
-    .experience {
+    .Professional_skills {
       display: block;
     }
   }
