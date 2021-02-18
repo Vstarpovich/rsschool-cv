@@ -45,7 +45,7 @@ html {
   }
   
   .cv {
-    max-width: 900px;
+    max-width: 1024px;
     margin: 0 auto;
   }
   
@@ -85,7 +85,7 @@ html {
     }
   }
   
-  .theme-switch-wrapper {
+  /*.theme-switch-wrapper {
     position: absolute;
     right: 0;
     top: 0;
@@ -166,4 +166,4 @@ html {
     transition: all 750ms !important;
     -webkit-transition-delay: 0 !important;
             transition-delay: 0 !important;
-  }
+  } */
